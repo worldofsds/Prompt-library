@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Instagram 4:5 Portrait Photo",
+    "category": "Image Generation",
+    "description": "A reusable prompt for an Instagram feed portrait.",
+    "prompt": "Create an ultra-realistic, high-resolution portrait using the uploaded person's photo as the face and identity reference. Preserve their recognizable facial features and natural skin tone. Show them seated sideways on a minimalist white rectangular cube, in a relaxed pose, looking towards the left. Outfit: oversized white sweatshirt, olive-green cargo trousers and white ribbed socks. Background: sage-green and pale cream studio panels with natural sunlight from the left, soft realistic shadows and premium editorial fashion photography. Use a vertical 4:5 composition (1080 × 1350 pixels), optimized for Instagram feed posts. Keep the full subject comfortably inside the frame with balanced margins; avoid cropping the head, hands or legs. Detailed hair and fabric textures, natural skin texture, sharp focus, balanced exposure, no distortion."
+  }
+]
